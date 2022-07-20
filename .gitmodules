@@ -1,0 +1,4 @@
+[submodule "artifacts"]
+	path = artifacts
+	url = git@github.com:ttuygun/artifacts.git
+	branch = 0.0.1
